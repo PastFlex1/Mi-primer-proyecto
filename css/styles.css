@@ -1,0 +1,23 @@
+.btn-button:hover{
+    background-color: rgb(255, 255, 255);
+    border-color:  rgb(255, 255, 255);
+    color: black;
+}
+
+.btn-button{
+    background-color: black;
+    color: white;
+    padding: 1rem;
+    align-items: center;
+}
+
+.contador-text{
+    font-family: sans-serif;
+    font-size: 60px;
+    margin-left: 20px;
+}
+
+.number{
+    font-size: 40px;
+    margin-left: 140px;
+}
